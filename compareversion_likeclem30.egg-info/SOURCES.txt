@@ -1,0 +1,10 @@
+README.md
+setup.py
+compareversion_likeclem30.egg-info/PKG-INFO
+compareversion_likeclem30.egg-info/SOURCES.txt
+compareversion_likeclem30.egg-info/dependency_links.txt
+compareversion_likeclem30.egg-info/top_level.txt
+comparevs/__init__.py
+comparevs/compareVersionString.py
+test/__init__.py
+test/test_compareversion.py
