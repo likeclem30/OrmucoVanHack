@@ -70,6 +70,9 @@ outcome = compareVersionDriver('1.0.1', '1.0.3')
 #     '{version1}' is same version as '{version2}': If the comparison returns 0
 ````
 
+Question C
+At Ormuco, we want to optimize every bits of software we write. Your goal is to write a new library that can be integrated to the Ormuco stack. Dealing with network issues everyday, latency is our biggest problem. Thus, your challenge is to write a new Geo Distributed LRU (Least Recently Used) cache with time expiration. This library will be used extensively by many of our services so it needs to meet the following criteria:
+
 
 #### Author(s)
 >- [William Aaron](https://github.com/likeclem30)
