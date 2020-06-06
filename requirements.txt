@@ -58,7 +58,7 @@ decorator==4.4.0
 defusedxml==0.6.0
 distributed==2.1.0
 dj-database-url==0.5.0
-Django==2.1.11
+Django==2.2.13
 django-coverage-plugin==1.6.0
 django-dotenv==1.4.2
 django-grip==2.0.0
