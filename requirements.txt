@@ -176,7 +176,7 @@ pycrypto==2.6.1
 pyct==0.4.6
 pycurl==7.43.0.3
 pyflakes==2.1.1
-Pygments==2.4.2
+Pygments==2.7.4
 PyHamcrest==1.9.0
 PyInstaller==3.5
 PyJWT==1.7.1
